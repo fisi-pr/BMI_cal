@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T15:21:30.249Z" agent="5.0 (Windows)" etag="vw2Cebjrmt_7OR-xSFkP" version="15.9.1" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VZLb9swDP41Bnbp4EfmtsfFdbdhKNAhh+2q2KytVZYMSX4kv36ULdtxnKIJtg4YsItAfiQl8aNI2wmiov0kSZk/iBSY47tp6wR3ju9feyGuBtj1wGoAMknTHvImYEP3YEHXohVNQc0ctRBM03IOJoJzSPQMI1KKZu72JNj81JJksAA2CWFL9DtNdd6jN/71hH8GmuXDyV5421sKMjjbTFROUtEcQEHsBJEUQvdS0UbADHcDL33c/QvW8WISuD4n4OemjPf6mw6e6/sfquKFEuzK7lITVtmEY6WAq5Ro4FvCn00mVOP6lTAhKXCgXEsnCpyPqww4Giqe4tqH1UIyClvg72rICFojszlkoImkKsktE3o30CsFhoO5oesE6yanGjYlSYy1wfeEWK4LhpqHor0rSA3tiyR4I7X4JEEUoOUOXWxAYIthX+NQm2Yq7eiSH5T11mLEvqZs3HgiHAXL+QX8+wv+7xbMr4GqknZttX74ctU5jLxj3qqUpisy9v6gTI1hif8e30+Ca9uRnv+H+PdfL8DqbxZgtSiA44cMT12ntEYx013iISkMOXyryrN0d6jSvjLFeQSpBB92xovONz9xXgdt5THylqHx5Wn+1/9t3T3/uRwNEvyalUbE1ieMAROZJAU6liApdibIY9vjZHh17tAWhl+BN5pDNx/mY+jEHPL8E3MovHwOoTp95DvbwZ9SEP8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-06T15:58:16.113Z" agent="5.0 (Windows)" etag="lh4M4NxrpBe_WqU6Hu-d" version="15.9.1" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1221" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jSpEztQt3kvFXsunmsol-1" value="Essensdatenbank mit Kalorieneinträgen und Essensvorlieben(vegan, vegetarisch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jSpEztQt3kvFXsunmsol-2" value="Datenbank mit Beispiel BMI-Daten und entspr tgl. Kalorienwerten" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="300" y="20" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jSpEztQt3kvFXsunmsol-4" target="bd9UbLxYGrV-jyAa_QuS-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.0000000000001" y="307.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSpEztQt3kvFXsunmsol-4" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Daten zur Person&lt;/div&gt;&lt;div&gt;Name, Größe,&lt;/div&gt;&lt;div&gt;Gewicht, Essenvorliebe&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;E&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="60" y="272.5" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-1" value="&lt;div&gt;Datenbank mit Personeneingaben:&lt;/div&gt;&lt;div&gt;Name, Größe, Gew., BMI&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="20" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-3" target="bd9UbLxYGrV-jyAa_QuS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-3" value="Daten speichern in Tab3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265.0000000000001" y="277.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-4" target="bd9UbLxYGrV-jyAa_QuS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-4" value="Berechnung BMI, Verknüpfung mit tgl Kalorienwerten" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465.0000000000001" y="277.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-14" target="bd9UbLxYGrV-jyAa_QuS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-14" value="&lt;div&gt;Daten zur heutigen Nahrungsmittel-einnahme&lt;/div&gt;&lt;div&gt;E&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665.0000000000001" y="277.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-16" target="bd9UbLxYGrV-jyAa_QuS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-16" value="Berechnung der möglichen Kalorien und Aufbereitung der Nahrungsmittelmöglichkeit unter Betrachtung der Essensvorlieben" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="260" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-18" target="bd9UbLxYGrV-jyAa_QuS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-18" value="Ausgabe der Nahrungsmöglichkeiten" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="452.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bd9UbLxYGrV-jyAa_QuS-20" target="jSpEztQt3kvFXsunmsol-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-20" value="Programstart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bd9UbLxYGrV-jyAa_QuS-22" value="Ende" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="452.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
